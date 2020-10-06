@@ -1,3 +1,5 @@
 this is the 1st line added
-this is 2nd line....
-
+<<<<<<< HEAD
+this is 2nd line........
+=======
+>>>>>>> parent of 25f24a4... second commit
